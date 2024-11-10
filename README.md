@@ -49,16 +49,17 @@
 2. **Install dependencies**:
    ```bash
    npm install
-3. **Run the backend server**:
-   ```bash
-   node server.js
-The backend server will start on http://localhost:5000.
-
-4. **Run the frontend server**:
+3. **Run the frontend server**:
    ```bash
    npm start
 
 The frontend app will open on http://localhost:3000.
+4. **Run the backend server**:
+   ```bash
+   node server.js
+The backend server will start on http://localhost:5000.
+
+
 
 ## Usage
 1. Open the app in your browser at http://localhost:3000.
