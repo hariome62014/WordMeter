@@ -54,6 +54,7 @@
    npm start
 
 The frontend app will open on http://localhost:3000.
+   
 4. **Run the backend server**:
    ```bash
    node server.js
