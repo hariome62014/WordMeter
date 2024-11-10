@@ -110,7 +110,7 @@ Analyzes the frequency of words on a webpage.
 
 ```json
 {
-  "url": "https://example.com",
+  "url": "https://www.expertrec.com/",
   "topN": 10
 }
 ```
